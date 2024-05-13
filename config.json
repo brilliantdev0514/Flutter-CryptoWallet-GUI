@@ -1,0 +1,8 @@
+{
+	"seederIPs": [
+		"165.22.200.137"
+	],
+	"scan_active_datashares": false,
+	"use_fast_sync": false,
+	"fully_regenerate_meta": false
+}
